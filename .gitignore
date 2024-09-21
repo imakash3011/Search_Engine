@@ -1,0 +1,27 @@
+
+.env
+
+venv/
+__pycache__/
+
+*.log
+node_modules/
+
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+
+.venv/
+venv/
+
+Chroma_db/
+.Chroma_db/
+.faiss_local/
+faiss_local/
+
+
+# Ignore large files
+large_file.txt
+large_directory/
